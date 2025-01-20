@@ -1,5 +1,3 @@
-LINK DEL PROYECTO: https://roadmap.sh/projects/task-tracker
-
 Este programa permite listear un serie de tareas. Podemos agregar, editar y eliminar tareasy tambien marcar cada tareas como hecha, en progreso o pendiente.
 
 Para usar el programa debemos:
@@ -31,4 +29,6 @@ For example:
   * List tasks to do: node index.js list todo
   * List tasks in progress: node index.js list in-progress
   * List completed tasks: node index.js list done
+
+ Link de la pagina del proyecto: https://roadmap.sh/projects/task-tracker 
 
